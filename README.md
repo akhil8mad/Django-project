@@ -1,4 +1,4 @@
-# Django-project
+# Django-project1
 
 University Student Department Backend: Mark Entry and Ranking System
 
